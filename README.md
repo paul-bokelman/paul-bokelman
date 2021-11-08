@@ -10,7 +10,7 @@
   <span><a href="https://stackoverflow.com/users/14832835/storm"><img src="https://socialize-md.vercel.app/api/badge/stackoverflow" alt="stackoverflow" /></a></span>
 </p>
 
-<sub align='center'>Icons by [socialize](https://socialize-md.vercel.app/), created by Paul Bokelman</sub>
+<sub align="center">Icons by [socialize](https://socialize-md.vercel.app/), created by Paul Bokelman</sub>
 
 
 <!-- 
