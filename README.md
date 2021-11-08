@@ -5,7 +5,7 @@
   <span><a href="https://github.com/paul-bokelman"><img src="https://socialize-md.vercel.app/api/badge/github" alt="github" /></a></span>
   <span><a href="https://testnets.opensea.io/collection/8bitfish-v4"><img src="https://socialize-md.vercel.app/api/badge/opensea" alt="opensea" /></a></span>
   <span><a href="https://www.instagram.com/paul.bokelman/"><img src="https://socialize-md.vercel.app/api/badge/instagram" alt="instagram" /></a></span>
-  <span><a href=""><img src="https://stackoverflow.com/users/14832835/storm" alt="stackoverflow" /></a></span>
+  <span><a href="https://stackoverflow.com/users/14832835/storm"><img src="https://socialize-md.vercel.app/api/badge/stackoverflow" alt="stackoverflow" /></a></span>
 </p>
 
 
