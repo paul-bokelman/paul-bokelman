@@ -1,6 +1,14 @@
 ### Hi there, Im Paul Bokelman! 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=paul-bokelman.visitor-badge)
+<p align="center">
+  <span><a href="https://twitter.com/8bitfish_crypto"><img src="https://socialize-md.vercel.app/api/badge/twitter" alt="twitter" /></a></span>
+  <span><a href="https://github.com/paul-bokelman"><img src="https://socialize-md.vercel.app/api/badge/github" alt="github" /></a></span>
+  <span><a href="https://testnets.opensea.io/collection/8bitfish-v4"><img src="https://socialize-md.vercel.app/api/badge/opensea" alt="opensea" /></a></span>
+  <span><a href="https://www.instagram.com/paul.bokelman/"><img src="https://socialize-md.vercel.app/api/badge/instagram" alt="instagram" /></a></span>
+  <span><a href=""><img src="https://stackoverflow.com/users/14832835/storm" alt="stackoverflow" /></a></span>
+</p>
+
+
 
 <!-- 
 **paul-bokelman/paul-bokelman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
