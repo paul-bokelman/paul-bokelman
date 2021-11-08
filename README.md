@@ -1,6 +1,6 @@
-<h1 align="left">Hi there, Im Paul Bokelman! 👋</h1>
+<h1 align="center">Hi there, Im Paul Bokelman! 👋</h1>
 
-<p align="left">
+<p align="center">
   <span><a href="https://twitter.com/8bitfish_crypto"><img src="https://socialize-md.vercel.app/api/badge/twitter" alt="twitter" /></a></span>
   <span><a href="https://github.com/paul-bokelman"><img src="https://socialize-md.vercel.app/api/badge/github" alt="github" /></a></span>
   <span><a href="https://testnets.opensea.io/collection/8bitfish-v4"><img src="https://socialize-md.vercel.app/api/badge/opensea" alt="opensea" /></a></span>
@@ -8,7 +8,7 @@
   <span><a href="https://stackoverflow.com/users/14832835/storm"><img src="https://socialize-md.vercel.app/api/badge/stackoverflow" alt="stackoverflow" /></a></span>
 </p>
 
-<p align="left"><sub>Icons by <a href="https://socialize-md.vercel.app/">Socialize</a>, created by Paul Bokelman</sub></p>
+<p align="center"><sub>Icons by <a href="https://socialize-md.vercel.app/">Socialize</a>, created by Paul Bokelman</sub></p>
 
 ### Some of my notable projects...
 
