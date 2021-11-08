@@ -10,13 +10,14 @@
 
 <p align="left"><sub>Icons by <a href="https://socialize-md.vercel.app/">Socialize</a>, created by Paul Bokelman</sub></p>
 
-Some of my notable projects...
+### Some of my notable projects...
 
 - 🐟 [8bitfish]() - 8000 beautiful crypto collectible fishes swimming on the ethereum blockchain.
 - 📚 [Socialize](https://github.com/paul-bokelman/socialize) - Elegant social media badges to spice up your markdown at your disposal.
 
 
-I know my way around... 
+### I know my way around... 
+
 - Javascript
 - Typescript
 - React
