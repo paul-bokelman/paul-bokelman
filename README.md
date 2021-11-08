@@ -1,4 +1,6 @@
-### Hi there, Im Paul Bokelman! 👋
+<h1 align="center">Hi there, Im Paul Bokelman! 👋</p>
+
+<p align="center">Check out my socials</p>
 
 <p align="center">
   <span><a href="https://twitter.com/8bitfish_crypto"><img src="https://socialize-md.vercel.app/api/badge/twitter" alt="twitter" /></a></span>
@@ -8,6 +10,7 @@
   <span><a href="https://stackoverflow.com/users/14832835/storm"><img src="https://socialize-md.vercel.app/api/badge/stackoverflow" alt="stackoverflow" /></a></span>
 </p>
 
+<sub>Icons by [socialize](https://socialize-md.vercel.app/), created by Paul Bokelman</sub>
 
 
 <!-- 
