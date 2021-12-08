@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, Im Paul Bokelman! 👋</h1>
+<h1 align="center">Hi there, I'm Paul Bokelman! 👋</h1>
 
 <p align="center">
   <span><a href="https://twitter.com/8bitfish_crypto"><img src="https://socialize-md.vercel.app/api/badge/twitter" alt="twitter" /></a></span>
