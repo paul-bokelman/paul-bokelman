@@ -10,24 +10,9 @@
 
 <p align="center"><sub>Icons by <a href="https://socialize-md.vercel.app/">Socialize</a>, created by Paul Bokelman</sub></p>
 
-### Some of my notable projects...
+### 👨‍💻 My Projects 
 
-- 🧭 [Club Compass](https://clubcompass.net) - Redefining club discovery for highschools.
 - 🐟 [8bitfish](https://github.com/8bitfish) - 8000 beautiful crypto collectible fishes swimming on the ethereum blockchain.
 - 📚 [Socialize](https://github.com/paul-bokelman/socialize) - Elegant social media badges to spice up your markdown at your disposal.
-
-
-### I know my way around... 
-
-- Javascript
-- Typescript
-- React
-- NodeJS
-
-<!-- 
-![Paul Bokelmans github stats](https://github-readme-stats.vercel.app/api?username=paul-bokelman)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paul-bokelman)](https://github.com/anuraghazra/github-readme-stats)
- -->
 
 👨‍💻 Always looking for work ;)
