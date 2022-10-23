@@ -10,7 +10,7 @@
 
 <p align="center"><sub>Icons by <a href="https://socialize-md.vercel.app/">Socialize</a>, created by Paul Bokelman</sub></p>
 
-### 👨‍💻 My Projects 
+### Projects 
 
 - 🐟 [8bitfish](https://github.com/8bitfish) - 8000 beautiful crypto collectible fishes swimming on the ethereum blockchain.
 - 📚 [Socialize](https://github.com/paul-bokelman/socialize) - Elegant social media badges to spice up your markdown at your disposal.
