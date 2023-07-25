@@ -8,7 +8,7 @@
   <span><a href="https://stackoverflow.com/users/14832835/storm"><img src="https://socialize-md.vercel.app/api/badge/stackoverflow" alt="stackoverflow" /></a></span>
 </p>
 
-<p align="center"><sub>Icons by <a href="https://socialize-md.vercel.app/">Socialize</a>, created by Paul Bokelman</sub></p>
+<p align="center"><sub>Icons from <a href="https://socialize-md.vercel.app/">Socialize</a>, created by Paul Bokelman</sub></p>
 
 ### Projects 
 
