@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm Paul Bokelman! 👋</h1>
 
 <p align="center">
-  <span><a href="https://twitter.com/8bitfish_crypto"><img src="https://socialize-md.vercel.app/api/badge/twitter" alt="twitter" /></a></span>
   <span><a href="https://github.com/paul-bokelman"><img src="https://socialize-md.vercel.app/api/badge/github" alt="github" /></a></span>
-  <span><a href="https://opensea.io/collection/8bitfishnft"><img src="https://socialize-md.vercel.app/api/badge/opensea" alt="opensea" /></a></span>
   <span><a href="https://www.instagram.com/paul.bokelman/"><img src="https://socialize-md.vercel.app/api/badge/instagram" alt="instagram" /></a></span>
   <span><a href="https://stackoverflow.com/users/14832835/storm"><img src="https://socialize-md.vercel.app/api/badge/stackoverflow" alt="stackoverflow" /></a></span>
 </p>
