@@ -8,7 +8,7 @@
 
 <p align="center"><sub>Icons from <a href="https://socialize-md.vercel.app/">Socialize</a>, created by Paul Bokelman</sub></p>
 
-### Projects 
+### My Favorite Projects 
 
 - 🎁 [PRS](https://github.com/prs) - A physical reward system with web, terminal, and physical system interaction.
 - 🐟 [8bitfish](https://github.com/8bitfish) - 8000 beautiful crypto collectible fishes swimming on the ethereum blockchain.
