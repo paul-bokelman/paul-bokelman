@@ -15,4 +15,4 @@
 - 💡 [The Bin](https://github.com/paul-bokelman/the-bin) - A fast way to jot down and organize those million dollar ideas.
 - 📚 [Socialize](https://github.com/paul-bokelman/socialize) - Elegant social media badges to spice up your markdown at your disposal.
 
-👨‍💻 Always looking for work ;)
+Follow my journey on (my personal website)[https://www.pab.dev/].
