@@ -10,6 +10,7 @@
 
 ### Projects 
 
+- 🎁 [PRS](https://github.com/prs) - A physical reward system with web, terminal, and physical system interaction.
 - 🐟 [8bitfish](https://github.com/8bitfish) - 8000 beautiful crypto collectible fishes swimming on the ethereum blockchain.
 - 💡 [The Bin](https://github.com/paul-bokelman/the-bin) - A fast way to jot down and organize those million dollar ideas.
 - 📚 [Socialize](https://github.com/paul-bokelman/socialize) - Elegant social media badges to spice up your markdown at your disposal.
