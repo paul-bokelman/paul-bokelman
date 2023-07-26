@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Paul Bokelman! 👋</h1>
+<h1 align="center">Hey stranger, I'm Paul. 🧤</h1>
 
 <p align="center">
   <span><a href="https://github.com/paul-bokelman"><img src="https://socialize-md.vercel.app/api/badge/github" alt="github" /></a></span>
