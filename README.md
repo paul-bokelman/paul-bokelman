@@ -1,3 +1,3 @@
 Hi, I'm Paul.
 
-Check out my personal website and my various projects below.
+Check out my personal [website](https://www.pab.dev/) and my various projects below.
