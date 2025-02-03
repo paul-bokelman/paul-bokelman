@@ -1,6 +1,6 @@
-Hi, I'm Paul and I'm interested in ML.
+Hi, I'm Paul, and I'm interested in the intersection between biological and computational systems.
 
-Check out my personal [website](https://www.pab.dev/) and various projects below.
+Check out my personal [website](https://www.pab.dev/) and my various socials below.
 <br>
 <br>
 [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/paul_bokelman)
